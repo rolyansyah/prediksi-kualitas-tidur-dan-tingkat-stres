@@ -5,4 +5,3 @@ pandas
 numpy
 joblib==1.5.2
 dill==0.3.8
-keras==3.13.2
